@@ -16,17 +16,9 @@ What things you need
 
 ```
 Python 3
-```
-```
 Jupyter Notebook or any platform that can run .ipynb files
-```
-```
 Tensorflow / Tensorflow-gpu
-```
-```
 Keras
-```
-```
 Pandas
 ```
 
