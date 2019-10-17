@@ -7,8 +7,6 @@
 Clone this repository using the command
 ```
 git clone https://github.com/vini7148/MNIST_HandToNumber.git
-```
-```
 cd MNIST_HandToNumber
 ```
 
